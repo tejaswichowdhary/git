@@ -1,0 +1,4 @@
+this file created in workspace and moved to stagging/index,by using add command.
+want to move this file back and midify due to errors so used -->git reset HEAD file name
+now want move this file directly to local repo.so we use git commit-m "directcommit" file name
+:
